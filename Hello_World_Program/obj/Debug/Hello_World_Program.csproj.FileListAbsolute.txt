@@ -1,7 +1,0 @@
-E:\Csharp Practices\Csharp\Hello_World_Program\bin\Debug\Hello_World_Program.exe.config
-E:\Csharp Practices\Csharp\Hello_World_Program\bin\Debug\Hello_World_Program.exe
-E:\Csharp Practices\Csharp\Hello_World_Program\bin\Debug\Hello_World_Program.pdb
-E:\Csharp Practices\Csharp\Hello_World_Program\obj\Debug\Hello_World_Program.csproj.AssemblyReference.cache
-E:\Csharp Practices\Csharp\Hello_World_Program\obj\Debug\Hello_World_Program.csproj.CoreCompileInputs.cache
-E:\Csharp Practices\Csharp\Hello_World_Program\obj\Debug\Hello_World_Program.exe
-E:\Csharp Practices\Csharp\Hello_World_Program\obj\Debug\Hello_World_Program.pdb
