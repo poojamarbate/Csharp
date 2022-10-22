@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\bin\Debug\Add_two_IntergerNumber_enterBy_User.exe.config
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\bin\Debug\Add_two_IntergerNumber_enterBy_User.exe
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\bin\Debug\Add_two_IntergerNumber_enterBy_User.pdb
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\obj\Debug\Add_two_IntergerNumber_enterBy_User.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\obj\Debug\Add_two_IntergerNumber_enterBy_User.exe
+C:\Users\ASUS\Desktop\C#\Add_two_IntergerNumber_enterBy_User\obj\Debug\Add_two_IntergerNumber_enterBy_User.pdb
