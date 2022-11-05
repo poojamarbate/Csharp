@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\bin\Debug\DateTime_formatespecifiers.exe.config
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\bin\Debug\DateTime_formatespecifiers.exe
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\bin\Debug\DateTime_formatespecifiers.pdb
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\obj\Debug\DateTime_formatespecifiers.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\obj\Debug\DateTime_formatespecifiers.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\obj\Debug\DateTime_formatespecifiers.exe
+C:\Users\ASUS\Desktop\C#\DateTime_formatespecifiers\obj\Debug\DateTime_formatespecifiers.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\String_dataype\bin\Debug\String_dataype.exe.config
+C:\Users\ASUS\Desktop\C#\String_dataype\bin\Debug\String_dataype.exe
+C:\Users\ASUS\Desktop\C#\String_dataype\bin\Debug\String_dataype.pdb
+C:\Users\ASUS\Desktop\C#\String_dataype\obj\Debug\String_dataype.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\String_dataype\obj\Debug\String_dataype.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\String_dataype\obj\Debug\String_dataype.exe
+C:\Users\ASUS\Desktop\C#\String_dataype\obj\Debug\String_dataype.pdb

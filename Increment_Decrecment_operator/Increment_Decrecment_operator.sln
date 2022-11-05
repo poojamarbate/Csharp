@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment_Decrecment_operator", "Increment_Decrecment_operator.csproj", "{441493F8-3C17-4F08-A18A-5D665C180180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441493F8-3C17-4F08-A18A-5D665C180180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441493F8-3C17-4F08-A18A-5D665C180180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441493F8-3C17-4F08-A18A-5D665C180180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441493F8-3C17-4F08-A18A-5D665C180180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5084534-6D5C-405A-BC50-DAAD368FF7EE}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiply_TwoFloatingpoint_number", "multiply_TwoFloatingpoint_number.csproj", "{FEA42FF9-5047-4766-B0B7-0BE10796ECC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA42FF9-5047-4766-B0B7-0BE10796ECC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA42FF9-5047-4766-B0B7-0BE10796ECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA42FF9-5047-4766-B0B7-0BE10796ECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA42FF9-5047-4766-B0B7-0BE10796ECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4863595A-2C28-4556-AC9E-8017C8FE28F0}
+	EndGlobalSection
+EndGlobal

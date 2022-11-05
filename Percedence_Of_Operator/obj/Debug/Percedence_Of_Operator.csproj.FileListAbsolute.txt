@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\bin\Debug\Percedence_Of_Operator.exe.config
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\bin\Debug\Percedence_Of_Operator.exe
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\bin\Debug\Percedence_Of_Operator.pdb
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\obj\Debug\Percedence_Of_Operator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\obj\Debug\Percedence_Of_Operator.exe
+C:\Users\ASUS\Desktop\C#\Percedence_Of_Operator\obj\Debug\Percedence_Of_Operator.pdb

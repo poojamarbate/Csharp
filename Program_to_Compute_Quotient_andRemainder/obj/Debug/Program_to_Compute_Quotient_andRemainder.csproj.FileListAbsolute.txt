@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\bin\Debug\Program_to_Compute_Quotient_andRemainder.exe.config
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\bin\Debug\Program_to_Compute_Quotient_andRemainder.exe
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\bin\Debug\Program_to_Compute_Quotient_andRemainder.pdb
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\obj\Debug\Program_to_Compute_Quotient_andRemainder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\obj\Debug\Program_to_Compute_Quotient_andRemainder.exe
+C:\Users\ASUS\Desktop\C#\Program_to_Compute_Quotient_andRemainder\obj\Debug\Program_to_Compute_Quotient_andRemainder.pdb

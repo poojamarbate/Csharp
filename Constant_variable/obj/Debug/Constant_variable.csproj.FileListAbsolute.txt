@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\Constant_variable\bin\Debug\Constant_variable.exe.config
+C:\Users\ASUS\Desktop\C#\Constant_variable\bin\Debug\Constant_variable.exe
+C:\Users\ASUS\Desktop\C#\Constant_variable\bin\Debug\Constant_variable.pdb
+C:\Users\ASUS\Desktop\C#\Constant_variable\obj\Debug\Constant_variable.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Constant_variable\obj\Debug\Constant_variable.exe
+C:\Users\ASUS\Desktop\C#\Constant_variable\obj\Debug\Constant_variable.pdb

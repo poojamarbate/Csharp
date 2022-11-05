@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\bin\Debug\multiply_TwoFloatingpoint_number.exe.config
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\bin\Debug\multiply_TwoFloatingpoint_number.exe
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\bin\Debug\multiply_TwoFloatingpoint_number.pdb
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\obj\Debug\multiply_TwoFloatingpoint_number.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\obj\Debug\multiply_TwoFloatingpoint_number.exe
+C:\Users\ASUS\Desktop\C#\multiply_TwoFloatingpoint_number\obj\Debug\multiply_TwoFloatingpoint_number.pdb

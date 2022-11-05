@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\bin\Debug\Types_Of_Operators.exe.config
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\bin\Debug\Types_Of_Operators.exe
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\bin\Debug\Types_Of_Operators.pdb
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\obj\Debug\Types_Of_Operators.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\obj\Debug\Types_Of_Operators.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\obj\Debug\Types_Of_Operators.exe
+C:\Users\ASUS\Desktop\C#\Types_Of_Operators\obj\Debug\Types_Of_Operators.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\If_else_if\bin\Debug\If_else_if.exe.config
+C:\Users\ASUS\Desktop\C#\If_else_if\bin\Debug\If_else_if.exe
+C:\Users\ASUS\Desktop\C#\If_else_if\bin\Debug\If_else_if.pdb
+C:\Users\ASUS\Desktop\C#\If_else_if\obj\Debug\If_else_if.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\If_else_if\obj\Debug\If_else_if.exe
+C:\Users\ASUS\Desktop\C#\If_else_if\obj\Debug\If_else_if.pdb
+C:\Users\ASUS\Desktop\C#\If_else_if\obj\Debug\If_else_if.csproj.AssemblyReference.cache

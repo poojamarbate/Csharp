@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\bin\Debug\Program_to_Print_an_IntegerEntered_byUser.exe.config
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\bin\Debug\Program_to_Print_an_IntegerEntered_byUser.exe
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\bin\Debug\Program_to_Print_an_IntegerEntered_byUser.pdb
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\obj\Debug\Program_to_Print_an_IntegerEntered_byUser.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\obj\Debug\Program_to_Print_an_IntegerEntered_byUser.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\obj\Debug\Program_to_Print_an_IntegerEntered_byUser.exe
+C:\Users\ASUS\Desktop\C#\Program_to_Print_an_IntegerEntered_byUser\obj\Debug\Program_to_Print_an_IntegerEntered_byUser.pdb

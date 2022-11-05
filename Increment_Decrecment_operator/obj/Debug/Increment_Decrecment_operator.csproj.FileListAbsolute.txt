@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\bin\Debug\Increment_Decrecment_operator.exe.config
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\bin\Debug\Increment_Decrecment_operator.exe
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\bin\Debug\Increment_Decrecment_operator.pdb
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\obj\Debug\Increment_Decrecment_operator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\obj\Debug\Increment_Decrecment_operator.exe
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\obj\Debug\Increment_Decrecment_operator.pdb
+C:\Users\ASUS\Desktop\C#\Increment_Decrecment_operator\obj\Debug\Increment_Decrecment_operator.csproj.AssemblyReference.cache

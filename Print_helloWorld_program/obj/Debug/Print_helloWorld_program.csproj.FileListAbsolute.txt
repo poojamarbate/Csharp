@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\bin\Debug\Print_helloWorld_program.exe.config
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\bin\Debug\Print_helloWorld_program.exe
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\bin\Debug\Print_helloWorld_program.pdb
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\obj\Debug\Print_helloWorld_program.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\obj\Debug\Print_helloWorld_program.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\obj\Debug\Print_helloWorld_program.exe
+C:\Users\ASUS\Desktop\C#\Print_helloWorld_program\obj\Debug\Print_helloWorld_program.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\FirstApplication\bin\Debug\FirstApplication.exe.config
+C:\Users\ASUS\Desktop\C#\FirstApplication\bin\Debug\FirstApplication.exe
+C:\Users\ASUS\Desktop\C#\FirstApplication\bin\Debug\FirstApplication.pdb
+C:\Users\ASUS\Desktop\C#\FirstApplication\obj\Debug\FirstApplication.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\FirstApplication\obj\Debug\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\FirstApplication\obj\Debug\FirstApplication.exe
+C:\Users\ASUS\Desktop\C#\FirstApplication\obj\Debug\FirstApplication.pdb

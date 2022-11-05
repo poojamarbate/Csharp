@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Logical_operator\bin\Debug\Logical_operator.exe.config
+C:\Users\ASUS\Desktop\C#\Logical_operator\bin\Debug\Logical_operator.exe
+C:\Users\ASUS\Desktop\C#\Logical_operator\bin\Debug\Logical_operator.pdb
+C:\Users\ASUS\Desktop\C#\Logical_operator\obj\Debug\Logical_operator.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Logical_operator\obj\Debug\Logical_operator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Logical_operator\obj\Debug\Logical_operator.exe
+C:\Users\ASUS\Desktop\C#\Logical_operator\obj\Debug\Logical_operator.pdb

@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\bin\Debug\statemet_expression_operations.exe.config
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\bin\Debug\statemet_expression_operations.exe
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\bin\Debug\statemet_expression_operations.pdb
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\obj\Debug\statemet_expression_operations.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\obj\Debug\statemet_expression_operations.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\obj\Debug\statemet_expression_operations.exe
+C:\Users\ASUS\Desktop\C#\statemet_expression_operations\obj\Debug\statemet_expression_operations.pdb

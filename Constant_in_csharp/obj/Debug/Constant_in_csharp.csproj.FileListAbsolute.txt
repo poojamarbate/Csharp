@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\bin\Debug\Constant_in_csharp.exe.config
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\bin\Debug\Constant_in_csharp.exe
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\bin\Debug\Constant_in_csharp.pdb
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\obj\Debug\Constant_in_csharp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\obj\Debug\Constant_in_csharp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\obj\Debug\Constant_in_csharp.exe
+C:\Users\ASUS\Desktop\C#\Constant_in_csharp\obj\Debug\Constant_in_csharp.pdb

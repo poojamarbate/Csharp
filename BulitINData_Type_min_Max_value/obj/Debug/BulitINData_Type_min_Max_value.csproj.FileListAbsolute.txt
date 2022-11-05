@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\bin\Debug\BulitINData_Type_min_Max_value.exe.config
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\bin\Debug\BulitINData_Type_min_Max_value.exe
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\bin\Debug\BulitINData_Type_min_Max_value.pdb
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\obj\Debug\BulitINData_Type_min_Max_value.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\obj\Debug\BulitINData_Type_min_Max_value.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\obj\Debug\BulitINData_Type_min_Max_value.exe
+C:\Users\ASUS\Desktop\C#\BulitINData_Type_min_Max_value\obj\Debug\BulitINData_Type_min_Max_value.pdb
