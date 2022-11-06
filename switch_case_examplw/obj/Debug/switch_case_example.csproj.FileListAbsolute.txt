@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\bin\Debug\switch_case_examplw.exe.config
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\bin\Debug\switch_case_examplw.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\bin\Debug\switch_case_examplw.pdb
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\obj\Debug\switch_case_example.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\obj\Debug\switch_case_examplw.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\obj\Debug\switch_case_examplw.pdb
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\switch_case_examplw\obj\Debug\switch_case_example.csproj.AssemblyReference.cache
