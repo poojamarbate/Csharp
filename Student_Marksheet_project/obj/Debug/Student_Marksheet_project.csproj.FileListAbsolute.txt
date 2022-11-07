@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\bin\Debug\Student_Marksheet_project.exe.config
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\bin\Debug\Student_Marksheet_project.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\bin\Debug\Student_Marksheet_project.pdb
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\obj\Debug\Student_Marksheet_project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\obj\Debug\Student_Marksheet_project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\obj\Debug\Student_Marksheet_project.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Student_Marksheet_project\obj\Debug\Student_Marksheet_project.pdb
