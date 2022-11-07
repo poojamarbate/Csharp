@@ -122,7 +122,8 @@ namespace Student_Marksheet_project
                 supply++;
             }
 
-            Console.WriteLine("your fail in {0} subjects",supply);
+            Console.WriteLine("your are fail in {0} subjects",supply);
+
 
 
 
