@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\bin\Debug\Nested_for_loop.exe.config
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\bin\Debug\Nested_for_loop.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\bin\Debug\Nested_for_loop.pdb
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\obj\Debug\Nested_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\obj\Debug\Nested_for_loop.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Nested_for_loop\obj\Debug\Nested_for_loop.pdb
