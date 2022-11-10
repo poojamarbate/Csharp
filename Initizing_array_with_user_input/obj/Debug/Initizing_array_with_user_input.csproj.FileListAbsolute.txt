@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\bin\Debug\Initizing_array_with_user_input.exe.config
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\bin\Debug\Initizing_array_with_user_input.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\bin\Debug\Initizing_array_with_user_input.pdb
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\obj\Debug\Initizing_array_with_user_input.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\obj\Debug\Initizing_array_with_user_input.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\obj\Debug\Initizing_array_with_user_input.exe
+C:\Users\ASUS\Desktop\Csharp_Concepts\Csharp\Initizing_array_with_user_input\obj\Debug\Initizing_array_with_user_input.pdb
